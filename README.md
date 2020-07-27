@@ -1,16 +1,28 @@
-### Hi there 👋
+# Hi, I'm Ilán Vivanco! 💻
+Web Developer at [Networks That Matter](https://ntmatter.com/)
 
-<!--
-**IlanVivanco/ilanvivanco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter](https://img.shields.io/twitter/follow/ilanvivanco?label=%40IlanVivanco&style=social)](https://github.com/IlanVivanco)
+[![GitHub](https://img.shields.io/github/followers/ilanvivanco?label=Follow%20me&style=social)](https://github.com/IlanVivanco)
+[![Linkedin](https://img.shields.io/badge/-IlanVivanco-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilanvivanco/)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little more about me
+
+```js
+const ilan = {
+  pronouns: ["he", "him"],
+  code: [
+    "PHP",
+    "Javascript",
+    "HTML",
+    "CSS",
+    "MySQL"
+  ],
+  tools: [
+    "WordPress",
+    "Laravel",
+    "Vue",
+    "Node"
+  ],
+  challenge: "Learning Vue and new JS standards."
+}
