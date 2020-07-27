@@ -1,4 +1,4 @@
-# Hi, I'm Ilán Vivanco! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="40px">
+# Hi, I'm Ilán Vivanco! <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="30px">
 Senior Web Developer and Team Leader at [Networks That Matter](https://ntmatter.com/)
 
 [![Twitter](https://img.shields.io/twitter/follow/ilanvivanco?label=%40IlanVivanco&style=social)](https://github.com/IlanVivanco)
