@@ -8,7 +8,7 @@ Senior Web Developer and Team Leader at [Networks That Matter](https://ntmatter.
 
 
 ### Coding stuff
-[![Ilan's github stats](https://github-readme-stats.vercel.app/api?username=ilanvivanco&count_private=true&show_icons=true)](https://github.com/IlanVivanco/)
+[![Ilan's github stats](https://github-readme-stats.vercel.app/api?username=ilanvivanco&count_private=true&show_icons=true&hide_title=true)](https://github.com/IlanVivanco/)
 
 ### A little bit more about me
 
