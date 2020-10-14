@@ -7,7 +7,10 @@ Senior Web Developer and Team Leader at [Networks That Matter](https://ntmatter.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-2867B2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilanvivanco)
 
 
-### A little more about me
+### Coding stuff
+[![Ilan's github stats](https://github-readme-stats.vercel.app/api?username=ilanvivanco&count_private=true&show_icons=true)](https://github.com/IlanVivanco/)
+
+### A little bit more about me
 
 ```js
 const ilan = {
@@ -27,3 +30,4 @@ const ilan = {
   ],
   challenge: "Learning Vue and new JS standards."
 }
+```
