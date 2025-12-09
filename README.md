@@ -7,10 +7,6 @@ Senior Full Stack Web Developer and Director of Engineering at [EpicDevs](https:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ilanvivanco)
 [![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/IlanVivanco)
 
-
-### Coding Stuff
-[![Ilan's Github Stats](https://github-readme-stats.vercel.app/api?username=ilanvivanco&count_private=true&show_icons=true&hide_title=true&theme=github_dark_dimmed )](https://github.com/IlanVivanco/)
-
 ### A little bit more about me
 
 ```js
